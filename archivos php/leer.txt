@@ -1,0 +1,2 @@
+esta carpeta tiene que ir en el directorio de xammp, una vez aqui ingresar a htdocs (o crearla en su defecto) y aqui guardar la 
+carpeta login_register

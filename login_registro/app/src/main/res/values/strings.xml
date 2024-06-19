@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">login_registro</string>
+    <string name="network_error_message">Error de red: %s</string>
+</resources>
